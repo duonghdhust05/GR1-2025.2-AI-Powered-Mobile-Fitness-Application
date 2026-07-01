@@ -1,0 +1,37 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+/.idea
+/.mapbox
+.kotlin
+.vscode 
+.build
+.gradle.properties
+.release
+/gradle/gradle-daemon-jvm.properties
+
+# Gradle files
+*.gradle
+/gradle/
+/gradlew
+/gradlew.bat
+
+# Properties files
+*.properties
+
+# VS Code Workspace files
+*.code-workspace
+
+*.json

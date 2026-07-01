@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Fitnest Brand Colors -->
+    <!-- Brand Gradients (Blue) -->
+    <color name="brand_color_1">#92A3FD</color>
+    <color name="brand_color_2">#9DCEFF</color>
+    
+    <!-- Secondary Gradients (Purple) -->
+    <color name="secondary_color_1">#C58BF2</color>
+    <color name="secondary_color_2">#EEA4CE</color>
+
+    <!-- Text & Neutral Colors -->
+    <color name="black">#1D1517</color>
+    <color name="gray_1">#7B6F72</color>
+    <color name="gray_2">#ADA4A5</color>
+    <color name="gray_3">#DDD9DA</color>
+    
+    <!-- Backgrounds -->
+    <color name="bg_white">#FFFFFF</color>
+    <color name="bg_gray">#F7F8F8</color>
+
+    <!-- Semantic Colors -->
+    <color name="colorSuccess">#42D742</color>
+    <color name="colorWarning">#FFD600</color>
+    <color name="colorError">#FF0000</color>
+
+    <!-- Backward Compatibility Aliases for existing views -->
+    <color name="colorPrimary">@color/brand_color_1</color>
+    <color name="colorPrimaryVariant">@color/brand_color_2</color>
+    <color name="colorOnPrimary">@color/bg_white</color>
+    <color name="colorSecondary">@color/secondary_color_1</color>
+    <color name="colorOnSecondary">@color/bg_white</color>
+
+    <color name="colorBackground">@color/bg_gray</color>
+    <color name="colorSurface">@color/bg_white</color>
+
+    <color name="colorTextPrimary">@color/black</color>
+    <color name="colorTextSecondary">@color/gray_1</color>
+    <color name="colorTextHint">@color/gray_2</color>
+
+    <!-- Legacy mapped colors to prevent crashes in old views -->
+    <color name="primaryColor">@color/brand_color_1</color>
+    <color name="backgroundFill">@color/bg_gray</color>
+    <color name="white">@color/bg_white</color>
+    <color name="gray">@color/gray_1</color>
+    <color name="textGray">@color/gray_1</color>
+    <color name="blueButton">@color/brand_color_1</color>
+    <color name="red">@color/colorError</color>
+    <color name="orange">@color/colorWarning</color>
+    <color name="yellow">@color/colorWarning</color>
+    <color name="lightGreen">@color/colorSuccess</color>
+    <color name="green">@color/colorSuccess</color>
+
+    <!-- Dark Mode & Strava/Fitbit Style Colors -->
+    <color name="colorDarkBg">#121212</color>
+    <color name="colorCardBg">#1E1E1E</color>
+    <color name="colorCardStroke">#2C2C2E</color>
+    <color name="colorTextDarkPrimary">#FFFFFF</color>
+    <color name="colorTextDarkSecondary">#A0A0A0</color>
+    <color name="colorStravaOrange">#FC4C02</color>
+    <color name="colorFitbitBlue">#194B8D</color>
+    <color name="colorFitbitTeal">#00554C</color>
+    <color name="colorFitbitPurple">#5B3285</color>
+    <color name="colorFitbitGray">#333333</color>
+    <color name="colorButtonDark">#2B2B2D</color>
+    <color name="colorButtonDarkStroke">#3A3A3C</color>
+</resources>
